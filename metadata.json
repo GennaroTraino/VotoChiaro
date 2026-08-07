@@ -1,0 +1,6 @@
+{
+  "name": "VotoChiaro - Guida al Voto Consapevole",
+  "description": "Portale neutrale e completo per il voto consapevole in Italia: confronto dei programmi politici, temi chiave, fact-checking e bussola elettorale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
